@@ -2,6 +2,7 @@ package com.clc.sample.java.fundamentals;
 
 /**
  * examples....
+ added by other developer...
  *Loading of test class
  *	Static fields ini of TestClass
  *Static block Execution of Testclass
