@@ -1,6 +1,7 @@
 package com.clc.sample.java.fundamentals;
 
 /**
+ * examples....
  *Loading of test class
  *	Static fields ini of TestClass
  *Static block Execution of Testclass
